@@ -7,5 +7,5 @@ This is a simple password generator website built using HTML, CSS, and JavaScrip
 - Responsive design for seamless experience across devices.
 
 ## Demo
-You can try out the live demo [here](https://yourprojectdomain.com).
+You can try out the live demo [here](https://ruhaniasija.github.io/PasswordGenerator/).
 
